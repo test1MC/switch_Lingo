@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap
+  NeedsRefreshCorrection="false">
+  <Entry
+    Status="Untranslated">
+  <Key>chow</Key>
+  <OldValue>chow</OldValue>
+  <NewValue>chow</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Echo File</Key>
+  <OldValue>Echo File</OldValue>
+  <NewValue>Echo File</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Golden retrievers</Key>
+  <OldValue>Golden retrievers</OldValue>
+  <NewValue>Golden retrievers</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>lab</Key>
+  <OldValue>lab</OldValue>
+  <NewValue>lab</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Movie</Key>
+  <OldValue>Movie</OldValue>
+  <NewValue>Movie</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Movie Project</Key>
+  <OldValue>Movie Project</OldValue>
+  <NewValue>Movie Project</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>SWF</Key>
+  <OldValue>SWF</OldValue>
+  <NewValue>SWF</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Uncompiled Movie</Key>
+  <OldValue>Uncompiled Movie</OldValue>
+  <NewValue>Uncompiled Movie</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Uncompiled Movie project</Key>
+  <OldValue>Uncompiled Movie project</OldValue>
+  <NewValue>Uncompiled Movie project</NewValue>
+</Entry>
+</StringMap>

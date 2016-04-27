@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <head>
+        <link href="../Resources/Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <map id="map1">
+        <area shape="circle" coords="251,194,82" title="砻קยด1ตว融" alt="砻קยด2ตว融" href="http://www.cnn.com/" />
+        <area shape="polygon" coords="467,135,421,140,409,193,435,233,461,228,454,197,462,168,469,136" title="砻קยด3ตว融" alt="砻קยด4ตว融" href="Multimedia Links.htm" />
+        <area shape="circle" coords="545,227,76" title="砻קยด5ตว融" alt="砻קยด6ตว融" href="#top" />
+    </map>
+    <body>
+        <h1><a name="top"></a>砻קยด13ตว融</h1>
+        <p>砻קยด14ตว融</p>
+        <p>&#160;</p>
+        <p>砻קยด15ตว融</p>
+        <p>
+            <img src="../Resources/Images/fry.jpg" title="砻קยด7ตว融" alt="砻קยด8ตว融" />
+        </p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>砻קยด16ตว融</p>
+        <p>砻קยด17ตว融</p>
+        <p>
+            <img src="../Resources/Images/420Thumbs20Up.jpg" title="砻קยด11ตว融" alt="砻קยด12ตว融" usemap="#map1" />
+        </p>
+        <p>&#160;</p>
+        <p>砻קยด18ตว融</p>
+        <p>&#160;</p>
+        <p>
+            <img src="../Resources/Images/Frame.bmp" style="width: 378px;height: 405px;" />
+        </p>
+    </body>
+</html>

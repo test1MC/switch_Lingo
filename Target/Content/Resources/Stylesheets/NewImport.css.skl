@@ -1,0 +1,75 @@
+/*<meta sourceDocument="C:\Documents and Settings\jwulkowicz\Desktop\Random Folder\TESTDOC4.doc" />*/
+
+p
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+ol
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+ul
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+li
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+td
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+	vertical-align: top;
+}
+
+h1.Heading1
+{
+	page-break-after: avoid;
+	margin-top: 12pt;
+	margin-bottom: 3pt;
+	mc-heading-level: 1;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 16pt;
+}
+
+h2.Heading2
+{
+	page-break-after: avoid;
+	margin-top: 12pt;
+	margin-bottom: 3pt;
+	mc-heading-level: 2;
+	font-family: Arial;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 14pt;
+}
+
+h3.Heading3
+{
+	page-break-after: avoid;
+	margin-top: 12pt;
+	margin-bottom: 3pt;
+	mc-heading-level: 3;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 13pt;
+}
+

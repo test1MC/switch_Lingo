@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport PreserveSourceStyles="True" KeepSourceLinks="True" ConvertInlineFormatting="True" AddContinuedLinks="True" AddContinuedFromLinks="True" ContinuedLinkFormat="(continued in {title})" ContinuedFromLinkFormat="(continued from {title})" UseMaxCharLimit="True" UseMinCharLimit="True" MaxCharLimit="10000" MinCharLimit="1000" LastCollectTime="01/07/2008 18:48:49" LastImport="01/07/2008 18:48:51">
+    <ParagraphStyles>
+        <Map From="Heading1" To="h1.(MS Word Style)" />
+        <Map From="Heading2" To="h2.(MS Word Style)" />
+        <Map From="Heading3" To="h3.(MS Word Style)" />
+        <Map From="Heading4" To="h4.(MS Word Style)" />
+        <Map From="Heading5" To="h5.(MS Word Style)" />
+        <Map From="Heading6" To="h6.(MS Word Style)" />
+        <Map From="Heading 1" To="h1.Heading 1" />
+        <Map From="Heading 2" To="h2.Heading 2" />
+        <Map From="Heading 3" To="h3.Heading 3" />
+    </ParagraphStyles>
+    <CharacterStyles>
+        <Map From="Hyperlink" To="a.(MS Word Style)" />
+    </CharacterStyles>
+    <Files>
+        <Url Source="../../../../../Desktop/Random Folder/TESTDOC4.doc" AbsoluteSource="file:///C:/Documents and Settings/jwulkowicz/Desktop/Random Folder/TESTDOC4.doc" />
+    </Files>
+    <GeneratedFiles>
+        <Url Source="../../Content/NewImport/TESTDOC4.htm" TimeStamp="1/7/2008 6:48:49 PM" />
+        <Url Source="../TOCs/NewImport.fltoc" TimeStamp="1/7/2008 6:48:49 PM" />
+        <Url Source="../../Content/Resources/Stylesheets/NewImport.css" TimeStamp="1/7/2008 6:48:49 PM" />
+    </GeneratedFiles>
+    <NewTopicStyles />
+    <UsedParagraphStyles>
+        <StyleName Name="TOC 1" />
+        <StyleName Name="TOC 2" />
+        <StyleName Name="TOC 3" />
+        <StyleName Name="Heading 1" />
+        <StyleName Name="Heading 2" />
+        <StyleName Name="Heading 3" />
+    </UsedParagraphStyles>
+    <UsedCharacterStyles>
+        <StyleName Name="Hyperlink" />
+    </UsedCharacterStyles>
+</MsWordImport>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <head>
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>砻קยด1ตว融</h1>
+        <p>砻קยด2ตว融</p>
+        <p><b>砻קยด3ตว融</b></p>
+        <p>&#160;</p>
+        <MadCap:breadcrumbsProxy class="" />
+        <p><u>砻קยด4ตว融</u></p>
+        <MadCap:miniTocProxy class="" />
+        <p>&#160;</p>
+        <p><i>砻קยด5ตว融</i></p>
+        <MadCap:glossaryProxy class="" />
+        <p>&#160;</p>
+        <p><b style="text-decoration: underline;font-style: italic;">砻קยด6ตว融</b></p>
+        <MadCap:indexProxy class="" style="mc-index-header-height: 0.5in;mc-index-headings: true;mc-column-count: 2;" />
+        <p>&#160;</p>
+        <p><u style="font-style: italic;">砻קยด7ตว融</u></p>
+        <MadCap:tocProxy class="" />
+        <p>&#160;</p>
+        <p style="text-align: center;">砻קยด8ตว融</p>
+        <MadCap:pageHeader class="EvenPage">
+            <p>- <MadCap:variable name="System.PageNumber" /> -</p>
+            <p>&#160;</p>
+            <p>砻קยด9ตว融</p>
+            <MadCap:pageFooter class="EvenPage">
+                <p>- <MadCap:variable name="System.PageNumber" /> -</p>
+            </MadCap:pageFooter>
+        </MadCap:pageHeader>
+    </body>
+</html>

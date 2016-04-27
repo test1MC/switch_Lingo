@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="Page of Colors.htm"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="xhtml"
+    target-language="es">
+    <header>
+      <skl><external-file
+          href="Page of Colors.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">9</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 10 (Early Experience)"
+        tool-name="Lingo"
+        tool-version="10.0.5961.6634"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-h1"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #ff0000;"&gt;</bpt>Page of <ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept><bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #0000cd;"&gt;</bpt>Colors<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #ff0000;"&gt;</bpt>Page of <ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept><bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #0000cd;"&gt;</bpt>Colors<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-p"
+        phase-name="pretrans"><source>Delete this text and replace it with your own content</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Delete this text and replace it with your own content</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #00ff00;"&gt;</bpt>Wow to many colors<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #00ff00;"&gt;</bpt>Wow to many colors<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-p"
+        phase-name="pretrans"><source>So this is something. Its a new style class. Weee!</source><seg-source><mrk
+            mtype="seg"
+            mid="1">So this is something.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Its a new style class.</mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">Weee!</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-p"
+        phase-name="pretrans"><source>Looks a bit crazy I think.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Looks a bit crazy I think.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

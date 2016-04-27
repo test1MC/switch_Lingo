@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry>
+    <Terms>
+      <Term>SWF</Term>
+    </Terms>
+    <Definition
+      Link="">Is a movie in the Flash format</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>MCMV</Term>
+    </Terms>
+    <Definition
+      Link="">Madcap compiled movie</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>MIMOV</Term>
+    </Terms>
+    <Definition
+      Link="">Madcap uncompiled movie</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

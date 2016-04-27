@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="SWF page.htm"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="xhtml"
+    target-language="es">
+    <header>
+      <skl><external-file
+          href="SWF page.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">8</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">5</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 10 (Early Experience)"
+        tool-name="Lingo"
+        tool-version="10.0.5961.6634"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-madcap:concept-term"
+        phase-name="pretrans"
+        translate="no"><source>SWF</source><seg-source><mrk
+            mtype="seg"
+            mid="1">SWF</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Swf</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Swf</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-madcap:keywordlink-term"
+        phase-name="pretrans"
+        translate="no"><source>Echo File;Movie;Movie Project;Swf;Uncompiled Movie;Uncompiled Movie Project</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Echo File</mrk><mrk
+            mtype="seg"
+            mid="2">Movie</mrk><mrk
+            mtype="seg"
+            mid="3">Movie Project</mrk><mrk
+            mtype="seg"
+            mid="4">Swf</mrk><mrk
+            mtype="seg"
+            mid="5">Uncompiled Movie</mrk><mrk
+            mtype="seg"
+            mid="6">Uncompiled Movie Project</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="6"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>This is a SWF, stickman!</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="img">This is a SWF, stickman!</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>ALT text for the SWF, stickman!</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="img">ALT text for the SWF, stickman!</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-h1"
+        phase-name="pretrans"><source>.SWF<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="2" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> below</source><seg-source><mrk
+            mtype="seg"
+            mid="1">.SWF<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="2" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> below</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-p"
+        phase-name="pretrans"><source>Above this text you should see a movie about a stickman. It is a dramatic piece,which should inspire future generations in the art of peace and diplomacy. Maybe.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Above this text you should see a movie about a stickman.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">It is a dramatic piece,which should inspire future generations in the art of peace and diplomacy.</mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">Maybe.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

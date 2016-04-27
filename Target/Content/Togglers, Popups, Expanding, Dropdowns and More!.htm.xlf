@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="in-progress">
+  <file
+    xml:space="preserve"
+    original="Togglers, Popups, Expanding, Dropdowns and More!.htm"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="xhtml"
+    target-language="es">
+    <header>
+      <skl><external-file
+          href="Togglers, Popups, Expanding, Dropdowns and More!.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">31</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 10 (Early Experience)"
+        tool-name="Lingo"
+        tool-version="10.0.5961.6634"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-h1"
+        phase-name="pretrans"><source>Togglers, Popups, Expanding, Dropdowns and More!</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Togglers, Popups, Expanding, Dropdowns and More!</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">Toggler, ventanas emergentes, en expansión, Menús desplegables y más!</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-p"
+        phase-name="pretrans"><source>This is going to be a topic dedicated to the art of togglers, dropdowns, expanding text, popups and anything else that falls into that Misc. category.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This is going to be a topic dedicated to the art of togglers, dropdowns, expanding text, popups and anything else that falls into that Misc.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">category.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">Esto va a ser un tema dedicado al arte de la Toggler, menús desplegables, texto en expansión, ventanas emergentes y cualquier cosa que cae en esa Misc.</mrk><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">categoría.</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-p"
+        phase-name="pretrans"><source>Don't forget about named elements, they are here to!</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Don't forget about named elements, they are here to!</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">No se olvide de elementos nombrados, que están aquí para!</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-p"
+        phase-name="pretrans"><source>Popup First</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Popup First</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">En primer elemento emergente</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-madcap:popuphead"
+        phase-name="pretrans"><source>Click here for pop up goodness</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click here for pop up goodness</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">Haga clic aquí para surge la bondad</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-madcap:popupbody"
+        phase-name="pretrans"><source>When you click that, this text will appear. It is kind of cool.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">When you click that, this text will appear.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">It is kind of cool.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">Al hacer clic en que, aparecerá este texto.</mrk><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">Es una especie de fresco.</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-p"
+        phase-name="pretrans"><source>Next is a toggler. First we need a named element.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Next is a toggler.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">First we need a named element.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">El siguiente es un basculador.</mrk><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">En primer lugar necesitamos un elemento llamado.</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-madcap:toggler"
+        phase-name="pretrans"><source>Toggle my named element.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Toggle my named element.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">Cambiar mi elemento llamado.</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-p"
+        phase-name="pretrans"><source>This is a P that will be a named element for our toggler.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This is a P that will be a named element for our toggler.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">Esta es una P que será un elemento llamado para nuestra toggler.</mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-p"
+        phase-name="pretrans"><source>Drop down text next.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Drop down text next.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">Desplegable de texto siguiente.</mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-madcap:dropdownhead"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:dropDownHotspot xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>So right Here<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:dropDownHotspot&gt;</ept>is the Drop-down Hotspot</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:dropDownHotspot xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>So right Here<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:dropDownHotspot&gt;</ept>is the Drop-down Hotspot</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:dropDownHotspot xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>Así que justo aquí <ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:dropDownHotspot&gt;</ept>es el hotspot desplegable</mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="1"
+            ctype="italic" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;i&gt;</bpt>This is the text you need to see in the drop down.<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/i&gt;</ept> <bpt
+            id="2"
+            ctype="bold" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;b&gt;</bpt>I got a bit of italics and bold working.<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/b&gt;</ept> You feel me?</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="italic" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;i&gt;</bpt></mrk><mrk
+            mtype="seg"
+            mid="2">This is the text you need to see in the drop down.</mrk><mrk
+            mtype="seg"
+            mid="3"><ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/i&gt;</ept></mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5"><bpt
+              id="2"
+              ctype="bold" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;b&gt;</bpt></mrk><mrk
+            mtype="seg"
+            mid="6">I got a bit of italics and bold working.</mrk><mrk
+            mtype="seg"
+            mid="7"><ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/b&gt;</ept></mrk><mrk
+            mtype="protected"
+            mid="8"> </mrk><mrk
+            mtype="seg"
+            mid="9">You feel me?</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">Este es el texto que necesita ver en el menú desplegable.</mrk><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="6"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">Me dieron un poco de letra cursiva y negrita de trabajo.</mrk><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="8"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="9"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">¿Me sientes?</mrk></target></trans-unit><trans-unit
+        id="13"
+        restype="x-p"
+        phase-name="pretrans"><source>Next is Expanding text.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Next is Expanding text.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">A continuación se expande el texto.</mrk></target></trans-unit><trans-unit
+        id="14"
+        restype="x-madcap:expandinghead"
+        phase-name="pretrans"><source>When you click this over here</source><seg-source><mrk
+            mtype="seg"
+            mid="1">When you click this over here</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">Al hacer clic en esto aquí</mrk></target></trans-unit><trans-unit
+        id="15"
+        restype="x-madcap:expandingbody"
+        phase-name="pretrans"><source>: <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #ff0000;"&gt;</bpt>This is is the text that should be expanding. Sweet.<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">: <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #ff0000;"&gt;</bpt>This is is the text that should be expanding.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Sweet.<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">: <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span style="color: #ff0000;"&gt;</bpt>Este es el texto que se debería desplegarse.</mrk><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">Dulce.<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></target></trans-unit></body>
+  </file>
+</xliff>

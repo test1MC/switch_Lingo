@@ -1,0 +1,474 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="Multimedia Links.htm"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="xhtml"
+    target-language="es">
+    <header>
+      <skl><external-file
+          href="Multimedia Links.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">18</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">21</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 10 (Early Experience)"
+        tool-name="Lingo"
+        tool-version="10.0.5961.6634"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-madcap:keywordlink-term"
+        phase-name="pretrans"
+        translate="no"><source>Echo File;Movie;Movie Project;Swf;Uncompiled Movie;Uncompiled Movie Project</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Echo File</mrk><mrk
+            mtype="seg"
+            mid="2">Movie</mrk><mrk
+            mtype="seg"
+            mid="3">Movie Project</mrk><mrk
+            mtype="seg"
+            mid="4">Swf</mrk><mrk
+            mtype="seg"
+            mid="5">Uncompiled Movie</mrk><mrk
+            mtype="seg"
+            mid="6">Uncompiled Movie Project</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="6"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-madcap:concept-term"
+        phase-name="pretrans"
+        translate="no"><source>Movie</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Movie</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Movie</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Movie</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-madcap:concept-term"
+        phase-name="pretrans"
+        translate="no"><source>Movie Project</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Movie Project</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Movie Project</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Movie Project</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xhtml-madcap:concept-term"
+        phase-name="pretrans"
+        translate="no"><source>Uncompiled Movie</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Uncompiled Movie</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Uncompiled Movie</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Uncompiled Movie</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xhtml-madcap:concept-term"
+        phase-name="pretrans"
+        translate="no"><source>Uncompiled Movie project</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Uncompiled Movie project</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Uncompiled Movie Project</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Uncompiled Movie Project</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xhtml-madcap:concept-term"
+        phase-name="pretrans"
+        translate="no"><source>Echo File</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Echo File</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Echo File</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Echo File</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>This is the tooltip for the mimic movie</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="a">This is the tooltip for the mimic movie</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>This is the tooltip for the mimic movie</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="a">This is the tooltip for the mimic movie</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>This is the movie project tooltip</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="a">This is the movie project tooltip</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="15"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>This is the movie project tooltip</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="a">This is the movie project tooltip</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="16"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Uncompiled Movie tooltip</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="a">Uncompiled Movie tooltip</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="17"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Uncompiled Movie tooltip</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="a">Uncompiled Movie tooltip</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="18"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>This is the uncompiled mimic movie tooltip</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="a">This is the uncompiled mimic movie tooltip</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="19"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>This is the uncompiled mimic movie tooltip</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="a">This is the uncompiled mimic movie tooltip</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="20"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Tooltip for echo sound</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="a">Tooltip for echo sound</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="21"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Tooltip for echo sound</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="a">Tooltip for echo sound</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="22"
+        restype="x-title"
+        phase-name="pretrans"><source>Multimedia Links (Mimic &amp; Echo files)</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Multimedia Links (Mimic &amp;amp</mrk><mrk
+            mtype="seg"
+            mid="2">; Echo files)</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="23"
+        restype="x-h1"
+        phase-name="pretrans"><source>Multimedia Links</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Multimedia Links</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="24"
+        restype="x-p"
+        phase-name="pretrans"><source>Movie Link <bpt
+            id="1"
+            ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="../../../../My Mimic Movies/Flashtest.mimovf/Output/flash/Flashtest.mcmvf/Flashtest_Section.mcmv" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="12" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="13" xmlns="urn:oasis:names:tc:xliff:document:1.2" />"&gt;</bpt>Flashtest_Section.mcmv<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Movie Link <bpt
+              id="1"
+              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="../../../../My Mimic Movies/Flashtest.mimovf/Output/flash/Flashtest.mcmvf/Flashtest_Section.mcmv" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="12" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="13" xmlns="urn:oasis:names:tc:xliff:document:1.2" />"&gt;</bpt>Flashtest_Section.mcmv<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="25"
+        restype="x-p"
+        phase-name="pretrans"><source>Movie Project Link <bpt
+            id="1"
+            ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="../../../../My Mimic Projects/FlareTest1/Output/flash/FlareTest1.mcmvf/FlareTest1.mcmv" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="14" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="15" xmlns="urn:oasis:names:tc:xliff:document:1.2" />"&gt;</bpt>FlareTest1.mcmv<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Movie Project Link <bpt
+              id="1"
+              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="../../../../My Mimic Projects/FlareTest1/Output/flash/FlareTest1.mcmvf/FlareTest1.mcmv" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="14" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="15" xmlns="urn:oasis:names:tc:xliff:document:1.2" />"&gt;</bpt>FlareTest1.mcmv<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="26"
+        restype="x-p"
+        phase-name="pretrans"><source>Uncompiled Movie Link <bpt
+            id="1"
+            ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="../../../../My Mimic Movies/InegrationMovie.mimovf/InegrationMovie.mimov" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="16" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="17" xmlns="urn:oasis:names:tc:xliff:document:1.2" />"&gt;</bpt>InegrationMovie.mimov<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Uncompiled Movie Link <bpt
+              id="1"
+              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="../../../../My Mimic Movies/InegrationMovie.mimovf/InegrationMovie.mimov" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="16" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="17" xmlns="urn:oasis:names:tc:xliff:document:1.2" />"&gt;</bpt>InegrationMovie.mimov<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="27"
+        restype="x-p"
+        phase-name="pretrans"><source>Uncompiled Movie Project Link <bpt
+            id="1"
+            ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="../../../../My Mimic Projects/FlareTest1/FlareTest1.miprj" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="18" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="19" xmlns="urn:oasis:names:tc:xliff:document:1.2" />"&gt;</bpt>Mimic Movie uncompiled<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Uncompiled Movie Project Link <bpt
+              id="1"
+              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="../../../../My Mimic Projects/FlareTest1/FlareTest1.miprj" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="18" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="19" xmlns="urn:oasis:names:tc:xliff:document:1.2" />"&gt;</bpt>Mimic Movie uncompiled<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="28"
+        restype="x-p"
+        phase-name="pretrans"><source>Echo Link <bpt
+            id="1"
+            ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="../Resources/Audio/Jay.ecsnd" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="20" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="21" xmlns="urn:oasis:names:tc:xliff:document:1.2" />"&gt;</bpt>This is an echo sound<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Echo Link <bpt
+              id="1"
+              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="../Resources/Audio/Jay.ecsnd" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="20" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="21" xmlns="urn:oasis:names:tc:xliff:document:1.2" />"&gt;</bpt>This is an echo sound<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

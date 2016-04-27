@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <head>
+        <link href="../Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <MadCap:breadcrumbsProxy class="" />
+        <MadCap:bodyProxy class="" />
+        <p> </p>
+        <p>This is random text at the bottom of a Master Page</p>
+    </body>
+</html>

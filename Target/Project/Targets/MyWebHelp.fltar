@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment=""
+  Type="WebHelp"
+  Destinations=""
+  GlossaryTermConversion="marked">
+  <Variables>
+    <Variable
+      Name="MyVariables/LingoVar">This is a webhelp variable.</Variable>
+  </Variables>
+</CatapultTarget>

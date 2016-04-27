@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap NeedsRefreshCorrection="false">
+    <Entry Status="Untranslated">
+        <Key>Civic</Key>
+        <OldValue>Civic</OldValue>
+        <NewValue>砻קยด1ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Echo File</Key>
+        <OldValue>Echo File</OldValue>
+        <NewValue>砻קยด2ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Honda</Key>
+        <OldValue>Honda</OldValue>
+        <NewValue>砻קยด3ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Movie</Key>
+        <OldValue>Movie</OldValue>
+        <NewValue>砻קยด4ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Movie Project</Key>
+        <OldValue>Movie Project</OldValue>
+        <NewValue>砻קยด5ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Pinto</Key>
+        <OldValue>Pinto</OldValue>
+        <NewValue>砻קยด6ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Swf</Key>
+        <OldValue>Swf</OldValue>
+        <NewValue>砻קยด7ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Uncompiled Movie</Key>
+        <OldValue>Uncompiled Movie</OldValue>
+        <NewValue>砻קยด8ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Uncompiled Movie Project</Key>
+        <OldValue>Uncompiled Movie Project</OldValue>
+        <NewValue>砻קยด9ตว融</NewValue>
+    </Entry>
+</StringMap>
